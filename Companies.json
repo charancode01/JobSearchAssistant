@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Infosys",
+        "website": "https://www.infosys.com",
+        "careersPage": "https://career.infosys.com",
+        "hiresFreshers": true,
+        "location": "Bengaluru"
+    },
+    {
+        "name": "Wipro",
+        "website": "https://www.wipro.com",
+        "careersPage": "https://careers.wipro.com",
+        "hiresFreshers": true,
+        "location": "Bengaluru"
+    },
+    {
+        "name": "TCS",
+        "website": "https://www.tcs.com",
+        "careersPage": "https://careers.tcs.com",
+        "hiresFreshers": true,
+        "location": "Bengaluru"
+    },
+    {
+        "name": "Accenture",
+        "website": "https://www.accenture.com",
+        "careersPage": "https://www.accenture.com/in-en/careers",
+        "hiresFreshers": true,
+        "location": "Bengaluru"
+    }
+]
